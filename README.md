@@ -11,6 +11,7 @@ This project focuses on applying advanced machine learning techniques, including
 # Reinforcement Learning Agents:
 
 1. **Tabular Q-Learning:** A Q-learning agent was implemented for MiniPong's Level 1 environment. By discretizing states and applying an epsilon-greedy policy, the agent improved its cumulative rewards over 500 episodes, achieving an average test reward of 161.2.
+
 2. **Deep Q-Network (DQN):** For Level 3, a DQN agent was trained using a neural network with two hidden layers. Despite learning to achieve moderate rewards, the agent faced challenges in achieving consistent high performance, with an average test reward of 30.42.
 
 # Insights and Challenges
