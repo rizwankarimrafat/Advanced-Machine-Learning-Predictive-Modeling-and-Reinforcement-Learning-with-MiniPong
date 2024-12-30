@@ -1,4 +1,4 @@
-# Advanced-Machine-Learning-Predictive-Modeling-and-Reinforcement-Learning-with-MiniPong
+# Advanced Machine Learning Predictive Modeling and Reinforcement Learning with MiniPong
 
 This project focuses on applying advanced machine learning techniques, including Convolutional Neural Networks (CNNs), Convolutional Autoencoders, and Reinforcement Learning (RL), to tackle various predictive modeling and decision-making tasks. The primary dataset and environment used for this project are derived from MiniPong, a simplified gaming simulation for testing agent performance.
 
