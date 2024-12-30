@@ -8,7 +8,7 @@ This project focuses on applying advanced machine learning techniques, including
 
 2. **Image Reconstruction with Autoencoders:** A convolutional autoencoder was implemented to reconstruct images from the MiniPong dataset. The autoencoder achieved a final test loss of 0.0009, indicating minimal reconstruction error. The encoder-decoder architecture effectively compressed and restored the images, with notable success in retaining core features of the original data.
 
-# Reinforcement Learning Agents:
+## Reinforcement Learning Agents:
 
 1. **Tabular Q-Learning:** A Q-learning agent was implemented for MiniPong's Level 1 environment. By discretizing states and applying an epsilon-greedy policy, the agent improved its cumulative rewards over 500 episodes, achieving an average test reward of 161.2.
 
